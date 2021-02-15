@@ -8,9 +8,9 @@ export default function App() {
     <View style={styles.contaier}>
     <Image
     style={styles.image}
-          source={require('./assets/douglas.jpg')}
+          source={require('./assets/allan.jpg')}
         />
-    <Text style={styles.title}>Criador por Douglas Falcão</Text>
+    <Text style={styles.title}>Criador por Allan Hipólito</Text>
     <Text style={styles.title}>2020</Text>
     </View>
     </>
